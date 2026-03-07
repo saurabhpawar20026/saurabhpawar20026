@@ -30,9 +30,21 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-### 🐍 My Contribution Snake
-<img src="https://github-user-contribution-snake.vercel.app/api/generate?github_user=saurabhpawar20026&color_snake=%2325c1e1&color_dots=%23161b22%2C%230e4429%2C%23006d32%2C%2326a641%2C%2339d353" alt="snake" />
+---
 
+### 🤝 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/saurabhgagde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahultkj/rahultkj/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:saurabhgagde1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahultkj/rahultkj/master/assets/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://instagram.com/saurabhpawar9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahultkj/rahultkj/master/assets/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+### 🐍 My Contribution Snake
+<div align="center">
+  <img src="https://github-user-contribution-snake.vercel.app/api/generate?github_user=saurabhpawar20026&color_snake=%2325c1e1&color_dots=%23161b22%2C%230e4429%2C%23006d32%2C%2326a641%2C%2339d353" alt="snake" />
+</div>
+
+---
 ---
 
 <p align="center">
