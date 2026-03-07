@@ -34,9 +34,11 @@
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/saurabhgagde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahultkj/rahultkj/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:saurabhgagde1@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahultkj/rahultkj/master/assets/gmail.svg" alt="Gmail" height="30" width="40" /></a>
-<a href="https://instagram.com/saurabhpawar9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahultkj/rahultkj/master/assets/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+### 🤝 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/saurabh-pawar-026" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:saurabhgagde1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/saurabhpawar9999" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ### 🐍 My Contribution Snake
