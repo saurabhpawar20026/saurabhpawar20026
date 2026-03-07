@@ -7,7 +7,7 @@
 - 🔭 **Currently working on:** Building modern web applications and strengthening my logic in Data Structures.
 - 🌱 **Currently learning:** Full Stack Development (MERN/Java) and Version Control with Git/GitHub.
 - 💬 **Ask me about:** HTML, CSS, JavaScript, and why I love coding!
-- 📫 **How to reach me:** [saurabhgagde1@gmail.com or linkedin.com/in/saurabhgagde]
+- 📫 **How to reach me:** saurabhgagde1@gmail.com or (https://www.linkedin.com/in/saurabh-gagde-ba651a333/)
 - ⚡ **Fun Fact:** I believe that "Consistent coding is the key to becoming a 1% developer."
 
 ---
