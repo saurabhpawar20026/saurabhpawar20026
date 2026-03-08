@@ -50,7 +50,7 @@
 
  🤝 Connect with me
 <p align="left">
-### 🤝 Connect with me
+🤝 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/saurabh-pawar-026" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:saurabhgagde1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
