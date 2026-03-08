@@ -57,12 +57,20 @@
 
 <br />
 <h2 align="center">📌 Featured Projects</h2>
+<div align="center">
+  <a href="https://github.com/saurabhpawar20026/Smart-Expense-Splitter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&theme=radical" />
+  </a>
+  <a href="https://github.com/saurabhpawar20026/Antique-AI-Restorer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Antique-AI-Restorer&theme=radical" />
+  </a>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Antique-AI-Restorer&theme=radical" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Finance-Tracker&theme=radical" />
+  <a href="https://github.com/saurabhpawar20026/Multi-Agent-AI-Research-Assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&theme=radical" />
+  </a>
+  <a href="https://github.com/saurabhpawar20026/Finance-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Finance-Tracker&theme=radical" />
+  </a>
 </div>
