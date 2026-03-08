@@ -25,20 +25,20 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,git,github,vscode,linux,postman" />---
 
 <br />
-<h2 align="center">🏗️ What I’m Building</h2>
-<div align="center">
-  <table width="800">
+ 🏗️ What I’m Building</h2>
+  <table width="850">
     <tr>
-      <td>
+      <td bgcolor="#1a1a1a">
+        <br />
         <p align="center">
-          <strong>🔹 Scalable AI Orchestration Systems</strong>
+          <font size="4" color="#bf91f3"><strong>🔹 Intelligent Systems & AI Infrastructure</strong></font>
         </p>
-        <ul>
-          <li><strong>Intelligent Backends:</strong> Building services to manage and automate complex AI agent workflows.</li>
-          <li><strong>Performance:</strong> Optimizing API response times and ensuring reliable data flow across distributed systems.</li>
-          <li><strong>Architecting for Scale:</strong> Developing high-performance architectures to handle parallel data processing.</li>
-          <li><strong>Cloud Native:</strong> Leveraging modern tools to ensure system scalability and efficient resource management.</li>
-        </ul>
+        <p align="left">
+          &nbsp;&nbsp; 🚀 <strong>AI Orchestration:</strong> Building backends that intelligently manage parallel workloads.<br />
+          &nbsp;&nbsp; 🛠️ <strong>Reliability:</strong> Enhancing system performance by reducing failures in high-traffic environments.<br />
+          &nbsp;&nbsp; 📈 <strong>Scalability:</strong> Deploying cloud-optimized services to handle massive user growth.
+        </p>
+        <br />
       </td>
     </tr>
   </table>
