@@ -24,6 +24,27 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,git,github,vscode,linux,postman" />---
 
+<br />
+<h2 align="center">🏗️ What I’m Building</h2>
+<div align="center">
+  <table width="800">
+    <tr>
+      <td>
+        <p align="center">
+          <strong>🔹 Scalable AI Orchestration Systems</strong>
+        </p>
+        <ul>
+          <li><strong>Intelligent Backends:</strong> Building services to manage and automate complex AI agent workflows.</li>
+          <li><strong>Performance:</strong> Optimizing API response times and ensuring reliable data flow across distributed systems.</li>
+          <li><strong>Architecting for Scale:</strong> Developing high-performance architectures to handle parallel data processing.</li>
+          <li><strong>Cloud Native:</strong> Leveraging modern tools to ensure system scalability and efficient resource management.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+<br />
+
 ## 📊 GitHub Stats
 
 ![Followers](https://img.shields.io/github/followers/saurabhpawar20026?style=for-the-badge)
