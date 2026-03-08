@@ -14,7 +14,7 @@
 ## 🧠 Core Expertise
 
 ### 💻 Languages
-**Python,
+Python,
 Java,
 JavaScript,
 C++,
