@@ -92,7 +92,14 @@
 ![Snake animation](https://github.com/saurabhpawar20026/saurabhpawar20026/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 <br />
 ## 📌 Featured Projects</h2>
-
+<div align="center">
+  <a href="https://github.com/saurabhpawar20026/Smart-Expense-Splitter">
+    <img src="./assets/smart-expense.png" width="45%" alt="Smart Expense Splitter" />
+  </a>
+  <a href="https://github.com/saurabhpawar20026/Antique-AI-Restorer">
+    <img src="./assets/antique-ai.png" width="45%" alt="Antique AI Restorer" />
+  </a>
+</div>
 <div align="center">
   <object data="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&theme=radical" type="image/png"></object>
   <object data="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Antique-AI-Restorer&theme=radical" type="image/png"></object>
