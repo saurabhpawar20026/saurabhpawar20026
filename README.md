@@ -47,8 +47,6 @@
 
  # 🐍 Contribution Snake
 ![Snake animation](https://github.com/saurabhpawar20026/saurabhpawar20026/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
----
----
 <br />
 ## 📌 Featured Projects</h2>
 
@@ -59,5 +57,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&theme=radical" alt="Multi Agent AI" />
-  <src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Finance-Tracker&theme=radical" alt="Finance Tracker" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Finance-Tracker&theme=radical" alt="Finance Tracker" />
 </div>
