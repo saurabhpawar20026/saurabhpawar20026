@@ -24,10 +24,20 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,git,github,vscode,linux,postman" />---
 
-### 📊 My GitHub Stats
+## 📊 GitHub Stats
+
+![Followers](https://img.shields.io/github/followers/saurabhpawar20026?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/saurabhpawar20026?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=saurabhpawar20026&style=for-the-badge)
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saurabhpawar20026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar20026&theme=radical"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saurabhpawar20026&show_icons=true&theme=radical"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&theme=radical"/>
+
 </p>
 ---
 
