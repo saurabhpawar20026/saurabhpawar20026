@@ -1,5 +1,7 @@
 # Hi there! I'm SAURABH GAGDE 👋
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Hi%20I'm%20Saurabh%20Gagde&fontSize=70" /></p>
+# <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+SAURABH+GAGDE;A+Full+Stack+Developer" alt="Typing SVG" />
+</h1>
 
 ### 🚀 About Me
 - 🔭 **Currently working on:** Building modern web applications and strengthening my logic in Data Structures.
