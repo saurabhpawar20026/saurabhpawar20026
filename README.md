@@ -31,17 +31,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=saurabhpawar20026&style=for-the-badge)
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar20026&theme=radical"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saurabhpawar20026&show_icons=true&theme=radical"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&theme=radical"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar20026&theme=radical" alt="GitHub Streak" />
 </p>
----
 
-### 🤝 Connect with me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhpawar20026&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+</p>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 🤝 Connect with me
 <p align="left">
 ### 🤝 Connect with me
 <p align="left">
