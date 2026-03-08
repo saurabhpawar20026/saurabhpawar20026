@@ -35,9 +35,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhpawar20026&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&theme=radical" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhpawar20026&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&theme=radical" width="48%" />
 </p>
+
+<br />
+
+---
+
+<h3 align="center">🤝 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/saurabh-pawar-026" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saurabhgagde1@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/saurabhpawar9999" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  🤝 Connect with me
