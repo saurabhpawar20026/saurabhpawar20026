@@ -56,5 +56,11 @@
 ---
 
 <p align="center">
+  <br />
+<div align="center">
+  <a href="https://github.com/saurabhpawar20026?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_My_Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
