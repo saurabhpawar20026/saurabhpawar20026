@@ -9,14 +9,17 @@
 - 💬 **Ask me about:** HTML,CSS,JavaScript,and why I love coding!
 - 📫 **How to reach me:** saurabhgagde1@gmail.com or (https://www.linkedin.com/in/saurabh-gagde-ba651a333/)
 - ⚡ **Fun Fact:** I believe that "Consistent coding is the key to becoming a 1% developer."
-
----
 ---
 
 ## 🧠 Core Expertise
 
 ### 💻 Languages
-**Python, Java, JavaScript, C++, SQL**
+**Python, 
+Java, 
+JavaScript,
+C++,
+c,
+SQL**
 
 ### ⚙️ Backend & AI Systems
 * **Frameworks:** Node.js, Express, Django/Flask (Python)
