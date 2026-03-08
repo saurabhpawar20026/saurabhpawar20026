@@ -57,7 +57,7 @@
 <a href="https://instagram.com/saurabhpawar9999" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 ![Snake animation](https://github.com/saurabhpawar20026/saurabhpawar20026/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 ---
 ---
