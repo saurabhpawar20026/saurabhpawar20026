@@ -24,10 +24,9 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,git,github,vscode,linux,postman" />---
 
-### 📊 My GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saurabhpawar20026&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&theme=dark&hide_border=true" />
+<img width="48%" src="" />
+<img width="48%" src="" />
 </p>
 ---
 
