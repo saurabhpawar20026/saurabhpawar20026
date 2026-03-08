@@ -55,12 +55,14 @@
 ---
 ---
 
-<p align="center">
-  <br />
+<br />
+<h2 align="center">📌 Featured Projects</h2>
+
 <div align="center">
-  <a href="https://github.com/saurabhpawar20026?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_My_Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Antique-AI-Restorer&theme=radical" />
 </div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Finance-Tracker&theme=radical" />
+</div>
