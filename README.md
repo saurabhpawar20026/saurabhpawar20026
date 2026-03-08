@@ -1,7 +1,5 @@
 # Hi there! I'm SAURABH GAGDE 👋
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saurabhpawar20026&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpawar20026" />
-</p>
+# <p align="center"><img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=300&section=header&text=Hi%20I'm%20Saurabh%20Gagde&fontSize=70" /></p>
 
 ### 🚀 About Me
 - 🔭 **Currently working on:** Building modern web applications and strengthening my logic in Data Structures.
