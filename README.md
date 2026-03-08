@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🔭 **Currently working on:** Building modern web applications and strengthening my logic in Data Structures.
 - 🌱 **Currently learning:** Full Stack Development (MERN/Java) and Version Control with Git/GitHub.
-- 💬 **Ask me about:** HTML, CSS, JavaScript, and why I love coding!
+- 💬 **Ask me about:** HTML,CSS,JavaScript,and why I love coding!
 - 📫 **How to reach me:** saurabhgagde1@gmail.com or (https://www.linkedin.com/in/saurabh-gagde-ba651a333/)
 - ⚡ **Fun Fact:** I believe that "Consistent coding is the key to becoming a 1% developer."
 
@@ -50,10 +50,8 @@
 <a href="https://instagram.com/saurabhpawar9999" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-### 🐍 My Contribution Snake
-<div align="center">
-  <img src="https://github-user-contribution-snake.vercel.app/api/generate?github_user=saurabhpawar20026&color_snake=%2325c1e1&color_dots=%23161b22%2C%230e4429%2C%23006d32%2C%2326a641%2C%2339d353" alt="snake" />
-</div>
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/saurabhpawar20026/snake-animation/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ---
