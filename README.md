@@ -14,12 +14,12 @@
 ## 🧠 Core Expertise
 
 ### 💻 Languages
-**Python**
-**Java**
-**JavaScript**
-**C++**
-**C**
-**SQL**
+**Python,
+Java,
+JavaScript,
+C++,
+C,
+SQL,
 
 ### ⚙️ Backend & AI Systems
 * **Frameworks:** Node.js, Express, Django/Flask (Python)
