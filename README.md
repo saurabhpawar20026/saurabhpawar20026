@@ -93,21 +93,20 @@
 <br />
 
 ## 📌 Featured Projects
-
 <div align="center">
   <a href="https://github.com/saurabhpawar20026/The-Pawar-Restro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=The-Pawar-Restro&theme=radical" alt="The Pawar Restro" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=The-Pawar-Restro&theme=radical" />
   </a>
   <a href="https://github.com/saurabhpawar20026/Smart-Expense-Splitter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&theme=radical" alt="Smart Expense Splitter" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&theme=radical" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/saurabhpawar20026/Sentiment-Analysis-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Sentiment-Analysis-Dashboard&theme=radical" alt="Sentiment Analysis Dashboard" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Sentiment-Analysis-Dashboard&theme=radical" />
   </a>
   <a href="https://github.com/saurabhpawar20026/DIGITAL-MEMORY-BOX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=DIGITAL-MEMORY-BOX&theme=radical" alt="Digital Memory Box" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=DIGITAL-MEMORY-BOX&theme=radical" />
   </a>
 </div>
