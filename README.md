@@ -14,11 +14,11 @@
 ## 🧠 Core Expertise
 
 ### 💻 Languages
-**Python**, 
-**Java**, 
-**JavaScript**,
-**C++**,
-**c**,
+**Python**
+**Java**
+**JavaScript**
+**C++**
+**C**
 **SQL**
 
 ### ⚙️ Backend & AI Systems
