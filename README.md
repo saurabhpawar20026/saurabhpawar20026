@@ -24,26 +24,19 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,git,github,vscode,linux,postman" />---
 
-<br />
- 🏗️ What I’m Building</h2>
-  <table width="850">
-    <tr>
-      <td bgcolor="#1a1a1a">
-        <br />
-        <p align="center">
-          <font size="4" color="#bf91f3"><strong>🔹 Intelligent Systems & AI Infrastructure</strong></font>
-        </p>
-        <p align="left">
-          &nbsp;&nbsp; 🚀 <strong>AI Orchestration:</strong> Building backends that intelligently manage parallel workloads.<br />
-          &nbsp;&nbsp; 🛠️ <strong>Reliability:</strong> Enhancing system performance by reducing failures in high-traffic environments.<br />
-          &nbsp;&nbsp; 📈 <strong>Scalability:</strong> Deploying cloud-optimized services to handle massive user growth.
-        </p>
-        <br />
-      </td>
-    </tr>
-  </table>
-</div>
-<br />
+---
+
+### 🏗️ What I’m Building
+
+<p align="left">
+  <strong>🔹 Intelligent Systems & AI Infrastructure</strong>
+</p>
+
+* 🚀 **AI Orchestration:** Building backends that intelligently manage parallel workloads.
+* 🛠️ **Reliability:** Enhancing system performance by reducing failures in high-traffic environments.
+* 📈 **Scalability:** Deploying cloud-optimized services to handle massive user growth.
+
+---
 
 ## 📊 GitHub Stats
 
