@@ -1,6 +1,6 @@
 # Hi there! I'm SAURABH GAGDE 👋
 # <h1 align="center">
-  <img src="https://readme-typing slider-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+SAURABH+GAGDE;A+Full+Stack+Developer;java+c+++c+pyhton+distributed+system;building+scalable+AI+text+orchestration+system" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+SAURABH+GAGDE;A+Full+Stack+Developer;java+c+++c+pyhton+distributed+system;building+scalable+AI+text+orchestration+system" alt="Typing SVG" />
 </h1>
 
 ### 🚀 About Me
