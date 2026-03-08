@@ -11,6 +11,47 @@
 - ⚡ **Fun Fact:** I believe that "Consistent coding is the key to becoming a 1% developer."
 
 ---
+---
+
+## 🧠 Core Expertise
+
+### 💻 Languages
+**Python, Java, JavaScript, C++, SQL**
+
+### ⚙️ Backend & AI Systems
+* **Frameworks:** Node.js, Express, Django/Flask (Python)
+* **AI Orchestration:** Building intelligent agent workflows & LLM integration
+* **Concurrency:** Handling parallel workloads & asynchronous processing
+* **API Development:** RESTful Services & Middleware integration
+
+### 📊 Data & Databases
+* **Relational:** MySQL, PostgreSQL
+* **NoSQL:** MongoDB
+* **Processing:** Data scraping, cleaning, and analytics pipelines
+
+### ☁️ Tools & DevOps
+* **Containerization:** Docker
+* **Version Control:** Git & GitHub
+* **Cloud & Infrastructure:** Integrating cloud services for scalability
+* **Automation:** CI/CD basics & core-code scraping
+
+### 🌐 Frontend & UI/UX
+* **Core:** HTML5, CSS3, JavaScript (ES6+)
+* **Styling:** Bootstrap, Tailwind CSS
+* **Design:** Figma (to code integration)
+
+---
+### 🏗️ What I’m Building
+
+<p align="left">
+  <strong>🔹 Intelligent Systems & AI Infrastructure</strong>
+</p>
+
+* 🚀 **AI Orchestration:** Building backends that intelligently manage parallel workloads.
+* 🛠️ **Reliability:** Enhancing system performance by reducing failures in high-traffic environments.
+* 📈 **Scalability:** Deploying cloud-optimized services to handle massive user growth.
+
+---
 
 ### 🛠 My Tech Stack
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -23,18 +64,6 @@
 <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,mongodb,git,github,vscode,linux,postman" />---
-
----
-
-### 🏗️ What I’m Building
-
-<p align="left">
-  <strong>🔹 Intelligent Systems & AI Infrastructure</strong>
-</p>
-
-* 🚀 **AI Orchestration:** Building backends that intelligently manage parallel workloads.
-* 🛠️ **Reliability:** Enhancing system performance by reducing failures in high-traffic environments.
-* 📈 **Scalability:** Deploying cloud-optimized services to handle massive user growth.
 
 ---
 
