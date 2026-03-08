@@ -91,23 +91,23 @@
  # 🐍 Contribution Snake
 ![Snake animation](https://github.com/saurabhpawar20026/saurabhpawar20026/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 <br />
-## 📌 Featured Projects</h2>
+
 ## 📌 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/saurabhpawar20026/The-Pawar-Restro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=The-Pawar-Restro&theme=radical" alt="The Pawar Restro" />
+  </a>
   <a href="https://github.com/saurabhpawar20026/Smart-Expense-Splitter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&theme=radical" alt="Smart Expense Splitter" />
-  </a>
-  <a href="https://github.com/saurabhpawar20026/Antique-AI-Restorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Antique-AI-Restorer&theme=radical" alt="Antique AI Restorer" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/saurabhpawar20026/Multi-Agent-AI-Research-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&theme=radical" alt="Multi Agent AI" />
+  <a href="https://github.com/saurabhpawar20026/Sentiment-Analysis-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Sentiment-Analysis-Dashboard&theme=radical" alt="Sentiment Analysis Dashboard" />
   </a>
-  <a href="https://github.com/saurabhpawar20026/Finance-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Finance-Tracker&theme=radical" alt="Finance Tracker" />
+  <a href="https://github.com/saurabhpawar20026/DIGITAL-MEMORY-BOX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=DIGITAL-MEMORY-BOX&theme=radical" alt="Digital Memory Box" />
   </a>
 </div>
