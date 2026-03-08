@@ -34,11 +34,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar20026&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhpawar20026&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&theme=radical" width="48%" />
-</p>
-
 <br />
 
 ---
