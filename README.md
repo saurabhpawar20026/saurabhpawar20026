@@ -55,14 +55,14 @@
 ---
 ---
 <br />
-<h2 align="center">📌 Featured Projects</h2>
+## 📌 Featured Projects</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Antique-AI-Restorer&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&theme=radical" alt="Smart Expense Splitter" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Antique-AI-Restorer&theme=radical" alt="Antique AI Restorer" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Sentiment-Analysis-Dashboard&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=SpendWise-AI-Finance-Tracker&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&theme=radical" alt="Multi Agent AI" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Finance-Tracker&theme=radical" alt="Finance Tracker" />
 </div>
