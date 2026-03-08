@@ -59,5 +59,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&theme=radical" alt="Multi Agent AI" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Finance-Tracker&theme=radical" alt="Finance Tracker" />
+  <src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhpawar20026&repo=Finance-Tracker&theme=radical" alt="Finance Tracker" />
 </div>
