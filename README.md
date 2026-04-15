@@ -8,7 +8,15 @@
 - 🌱 **Currently learning:** Full Stack Development (MERN/Java) and Version Control with Git/GitHub.
 - 💬 **Ask me about:** HTML,CSS,JavaScript,and why I love coding!
 - 📫 **How to reach me:** saurabhgagde1@gmail.com or (https://www.linkedin.com/in/saurabh-gagde-ba651a333/)
+### 📄 My Resume
+<p align="left">
+  <a href="https://github.com/saurabhpawar20026/saurabhpawar20026/blob/main/SAURABH.RESUME%20(1).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
 - ⚡ **Fun Fact:** I believe that "Consistent coding is the key to becoming a 1% developer."
+
 ---
 
 ## 🧠 Core Expertise
