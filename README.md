@@ -35,31 +35,11 @@
 <!-- ============================================================= -->
 ### &nbsp;🧑‍💻&nbsp; About Me
 
-```yaml
-name: Saurabh Gagde
-education: Master of Computer Applications (MCA)
-role: Full Stack Developer | Data Analyst | Machine Learning Enthusiast
-based_in: India
-focus:
-  - Building scalable, end-to-end web applications
-  - Turning raw data into actionable insights & dashboards
-  - Designing intelligent, AI-driven systems
-currently_learning: [ "Advanced System Design", "MLOps", "Cloud Architecture" ]
-mantra: "Consistent coding is the key to becoming a 1% developer."
-```
+<div align="center">
+  <img width="78%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/about.svg" alt="About Saurabh Gagde" />
+</div>
 
-<table>
-  <tr>
-    <td>🎓 <b>MCA graduate</b> with a strong foundation in software engineering & applied AI.</td>
-    <td>🚀 I ship <b>production-grade full-stack apps</b> and <b>data-driven ML systems</b>.</td>
-  </tr>
-  <tr>
-    <td>📊 I love translating messy data into <b>clean dashboards</b> & smart decisions.</td>
-    <td>🤝 Open to <b>collaboration, internships & full-time roles</b>.</td>
-  </tr>
-</table>
-
-<p>
+<p align="center">
   <a href="https://github.com/saurabhpawar20026/saurabhpawar20026/blob/main/SAURABH.RESUME%20(1).pdf" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%93%84_View_My_Resume-A855F7?style=for-the-badge&logoColor=white" alt="Resume" />
   </a>
