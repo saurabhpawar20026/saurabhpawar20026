@@ -48,12 +48,13 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.9s" fill="freeze"/>
 
     <!-- ===== HEADER: avatar + name ===== -->
-    <circle cx="86" cy="86" r="42" fill="url(#avatar)" filter="url(#glow)"/>
-    <circle cx="86" cy="86" r="42" fill="none" stroke="#FDE047" stroke-opacity="0.7" stroke-width="1.5"/>
-    <text x="86" y="98" text-anchor="middle" font-size="34" font-weight="800" fill="#1c1407">SG</text>
+    <circle cx="86" cy="86" r="45" fill="#FBBF24" fill-opacity="0.18" filter="url(#glow)"/>
+    <circle cx="86" cy="86" r="42" fill="#1c1407"/>
+    <circle cx="86" cy="86" r="42" fill="none" stroke="url(#avatar)" stroke-width="2.5"/>
+    <text x="86" y="98" text-anchor="middle" font-size="34" font-weight="800" fill="#FCD34D">SG</text>
     <!-- live status dot -->
     <circle cx="116" cy="114" r="9" fill="#0b0a05"/>
-    <circle cx="116" cy="114" r="6" fill="#22c55e">
+    <circle cx="116" cy="114" r="6" fill="#FBBF24">
       <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
     </circle>
 
@@ -64,9 +65,9 @@
     <text x="150" y="78" font-size="42" font-weight="800" fill="#FCD34D">Saurabh Gagde</text>
     <text x="152" y="106" font-size="16" font-weight="600" fill="#FCD34D" letter-spacing="0.3">Full Stack Developer &#8226; Data Analyst &#8226; ML Enthusiast</text>
     <!-- open to work pill -->
-    <rect x="700" y="60" width="150" height="30" rx="15" fill="#22c55e" fill-opacity="0.14" stroke="#22c55e" stroke-opacity="0.55"/>
-    <circle cx="722" cy="75" r="4" fill="#22c55e"/>
-    <text x="734" y="80" font-size="13" font-weight="700" fill="#86efac">OPEN TO WORK</text>
+    <rect x="700" y="60" width="150" height="30" rx="15" fill="#FBBF24" fill-opacity="0.14" stroke="#FBBF24" stroke-opacity="0.6"/>
+    <circle cx="722" cy="75" r="4" fill="#FBBF24"/>
+    <text x="734" y="80" font-size="13" font-weight="700" fill="#FCD34D">OPEN TO WORK</text>
 
     <!-- divider -->
     <rect x="48" y="146" width="804" height="2" rx="1" fill="url(#edge)" opacity="0.5"/>
