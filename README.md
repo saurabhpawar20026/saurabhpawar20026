@@ -1,15 +1,17 @@
 <!-- ============================================================= -->
-<!--                       HERO BANNER                             -->
+<!--                    PREMIUM ANIMATED HERO                      -->
 <!-- ============================================================= -->
-<a href="https://github.com/saurabhpawar20026">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=230&section=header&text=Saurabh%20Gagde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Data%20Analytics%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=20" alt="header" />
-</a>
+<div align="center">
+  <a href="https://github.com/saurabhpawar20026">
+    <img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/header.svg" alt="Saurabh Gagde — Software Engineer" />
+  </a>
+</div>
 
 <!-- ============================================================= -->
 <!--                     ANIMATED TYPING                           -->
 <!-- ============================================================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=A855F7&center=true&vCenter=true&width=720&lines=MCA+Graduate+%26+Full+Stack+Developer;Turning+Data+into+Decisions+with+ML;Building+Scalable%2C+Production-Ready+Systems;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=MCA+Graduate+%26+Full+Stack+Developer;Turning+Data+into+Decisions+with+ML;Building+Scalable%2C+Production-Ready+Systems;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </div>
 
 <!-- ============================================================= -->
@@ -17,21 +19,21 @@
 <!-- ============================================================= -->
 <div align="center">
   <a href="https://github.com/saurabhpawar20026?tab=followers">
-    <img src="https://img.shields.io/github/followers/saurabhpawar20026?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/saurabhpawar20026?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B1F&color=8B5CF6" alt="Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=saurabhpawar20026&style=for-the-badge&logo=eye&label=Profile+Views&labelColor=0D1117&color=8B5CF6" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8B5CF6&label=Repositories&query=public_repos&url=https://api.github.com/users/saurabhpawar20026" alt="Repos" />
+  <img src="https://komarev.com/ghpvc/?username=saurabhpawar20026&style=for-the-badge&logo=eye&label=Profile+Views&labelColor=0D0B1F&color=8B5CF6" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B1F&color=8B5CF6&label=Repositories&query=public_repos&url=https://api.github.com/users/saurabhpawar20026" alt="Repos" />
   <a href="https://linkedin.com/in/saurabh-pawar-026">
-    <img src="https://img.shields.io/badge/Open_to_Work-A855F7?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0D1117" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/Open_to_Work-A855F7?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0D0B1F" alt="Open to Work" />
   </a>
 </div>
 
-<br />
+<img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
 
 <!-- ============================================================= -->
 <!--                         ABOUT ME                              -->
 <!-- ============================================================= -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
+### &nbsp;🧑‍💻&nbsp; About Me
 
 ```yaml
 name: Saurabh Gagde
@@ -57,16 +59,18 @@ mantra: "Consistent coding is the key to becoming a 1% developer."
   </tr>
 </table>
 
-<p align="left">
+<p>
   <a href="https://github.com/saurabhpawar20026/saurabhpawar20026/blob/main/SAURABH.RESUME%20(1).pdf" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%93%84_View_My_Resume-A855F7?style=for-the-badge&logoColor=white" alt="Resume" />
   </a>
 </p>
 
+<img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
+
 <!-- ============================================================= -->
 <!--                        TECH STACK                             -->
 <!-- ============================================================= -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> Tech Stack
+### &nbsp;🛠️&nbsp; Tech Stack
 
 <table>
   <tr>
@@ -131,37 +135,43 @@ mantra: "Consistent coding is the key to becoming a 1% developer."
   </tr>
 </table>
 
+<img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
+
 <!-- ============================================================= -->
 <!--                       GITHUB STATS                            -->
 <!-- ============================================================= -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28" /> GitHub Stats
+### &nbsp;📈&nbsp; GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saurabhpawar20026&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saurabhpawar20026&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhpawar20026&hide_border=true&bg_color=0D1117&color=A855F7&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhpawar20026&hide_border=true&bg_color=0D0B1F&color=A855F7&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6" alt="Activity Graph" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saurabhpawar20026&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </div>
 
+<img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
+
 <!-- ============================================================= -->
 <!--                    CONTRIBUTION STREAK                        -->
 <!-- ============================================================= -->
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQUDr3p/giphy.gif" width="28" /> Contribution Streak
+### &nbsp;🔥&nbsp; Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar20026&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar20026&hide_border=true&background=0D0B1F&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </div>
+
+<img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
 
 <!-- ============================================================= -->
 <!--                     FEATURED PROJECTS                         -->
 <!-- ============================================================= -->
-## <img src="https://media.giphy.com/media/iiyJNJTfMpHK86dKQu/giphy.gif" width="28" /> Featured Projects
+### &nbsp;⭐&nbsp; Featured Projects
 
 <table>
   <tr>
@@ -169,7 +179,7 @@ mantra: "Consistent coding is the key to becoming a 1% developer."
       <h3 align="center">🤖 Multi-Agent AI Research Assistant</h3>
       <div align="center">
         <a href="https://github.com/saurabhpawar20026/Multi-Agent-AI-Research-Assistant">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
         </a>
       </div>
       <p align="center">An orchestration system where multiple AI agents collaborate to automate research and content generation.</p>
@@ -183,7 +193,7 @@ mantra: "Consistent coding is the key to becoming a 1% developer."
       <h3 align="center">🩺 Aarogya Connect</h3>
       <div align="center">
         <a href="https://github.com/saurabhpawar20026/Aarogya_connect">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Aarogya_connect&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Aarogya_connect&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
         </a>
       </div>
       <p align="center">A full-stack healthcare platform for appointment booking and medical schedule tracking.</p>
@@ -196,57 +206,59 @@ mantra: "Consistent coding is the key to becoming a 1% developer."
   </tr>
 </table>
 
+<img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
+
 <!-- ============================================================= -->
 <!--                  TOP 8 PROJECTS SHOWCASE                      -->
 <!-- ============================================================= -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> Top 8 Projects Showcase
+### &nbsp;🚀&nbsp; Top 8 Projects Showcase
 
 <table>
   <tr>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/Multi-Agent-AI-Research-Assistant">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/PathFinder-AI">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=PathFinder-AI&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=PathFinder-AI&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/Sentiment-Analysis-Dashboard">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Sentiment-Analysis-Dashboard&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Sentiment-Analysis-Dashboard&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/Antique-AI-Restorer">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Antique-AI-Restorer&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Antique-AI-Restorer&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/AURELIA">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=AURELIA&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=AURELIA&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/APEX-STACK">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=APEX-STACK&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=APEX-STACK&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/saurabhpawar20026/Aarogya_connect">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Aarogya_connect&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+      <a href="https://github.com/saurabhpawar20026/AI-Health-Assistant">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=AI-Health-Assistant&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/Smart-Expense-Splitter">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
       </a>
     </td>
   </tr>
@@ -258,10 +270,12 @@ mantra: "Consistent coding is the key to becoming a 1% developer."
   </a>
 </div>
 
+<img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
+
 <!-- ============================================================= -->
 <!--                   INTERNSHIP EXPERIENCE                       -->
 <!-- ============================================================= -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" /> Internship Experience
+### &nbsp;💼&nbsp; Internship Experience
 
 <table>
   <tr>
@@ -296,12 +310,14 @@ mantra: "Consistent coding is the key to becoming a 1% developer."
   </tr>
 </table>
 
-> 📝 *I drafted these from your `Saiket-frontend-internship` and `skillinfytech-` repositories — please confirm/adjust the exact role titles, durations, and responsibilities.*
+> 📝 *Drafted from your `Saiket-frontend-internship` and `skillinfytech-` repos — confirm exact role titles, durations & responsibilities.*
+
+<img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
 
 <!-- ============================================================= -->
 <!--                       CERTIFICATIONS                          -->
 <!-- ============================================================= -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> Certifications
+### &nbsp;📜&nbsp; Certifications
 
 <table>
   <tr>
@@ -314,12 +330,14 @@ mantra: "Consistent coding is the key to becoming a 1% developer."
   </tr>
 </table>
 
-> 📝 *Send me your real certifications (issuer, year & verification link) and I'll format them professionally — placeholders are in place for now.*
+> 📝 *Send your real certifications (issuer, year & verification link) and I'll format them professionally.*
+
+<img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
 
 <!-- ============================================================= -->
 <!--                         CONTACT                               -->
 <!-- ============================================================= -->
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="28" /> Let's Connect
+### &nbsp;🤝&nbsp; Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/saurabh-pawar-026" target="_blank">
