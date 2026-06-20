@@ -11,7 +11,7 @@
 <!--                     ANIMATED TYPING                           -->
 <!-- ============================================================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=MCA+Graduate+%26+Full+Stack+Developer;Turning+Data+into+Decisions+with+ML;Building+Scalable%2C+Production-Ready+Systems;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=FBBF24&center=true&vCenter=true&width=700&lines=MCA+Graduate+%26+Full+Stack+Developer;Turning+Data+into+Decisions+with+ML;Building+Scalable%2C+Production-Ready+Systems;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </div>
 
 <!-- ============================================================= -->
@@ -19,12 +19,12 @@
 <!-- ============================================================= -->
 <div align="center">
   <a href="https://github.com/saurabhpawar20026?tab=followers">
-    <img src="https://img.shields.io/github/followers/saurabhpawar20026?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B1F&color=8B5CF6" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/saurabhpawar20026?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0A05&color=F59E0B" alt="Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=saurabhpawar20026&style=for-the-badge&logo=eye&label=Profile+Views&labelColor=0D0B1F&color=8B5CF6" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0B1F&color=8B5CF6&label=Repositories&query=public_repos&url=https://api.github.com/users/saurabhpawar20026" alt="Repos" />
+  <img src="https://komarev.com/ghpvc/?username=saurabhpawar20026&style=for-the-badge&logo=eye&label=Profile+Views&labelColor=0B0A05&color=F59E0B" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0A05&color=F59E0B&label=Repositories&query=public_repos&url=https://api.github.com/users/saurabhpawar20026" alt="Repos" />
   <a href="https://linkedin.com/in/saurabh-pawar-026">
-    <img src="https://img.shields.io/badge/Open_to_Work-A855F7?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0D0B1F" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/Open_to_Work-FBBF24?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0B0A05" alt="Open to Work" />
   </a>
 </div>
 
@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/saurabhpawar20026/saurabhpawar20026/blob/main/SAURABH.RESUME%20(1).pdf" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%84_View_My_Resume-A855F7?style=for-the-badge&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%84_View_My_Resume-FBBF24?style=for-the-badge&logoColor=white" alt="Resume" />
   </a>
 </p>
 
@@ -123,16 +123,16 @@
 ### &nbsp;📈&nbsp; GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saurabhpawar20026&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saurabhpawar20026&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0A05&title_color=FBBF24&icon_color=F59E0B&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saurabhpawar20026&layout=compact&hide_border=true&bg_color=0B0A05&title_color=FBBF24&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhpawar20026&hide_border=true&bg_color=0D0B1F&color=A855F7&line=8B5CF6&point=ffffff&area=true&area_color=8B5CF6" alt="Activity Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhpawar20026&hide_border=true&bg_color=0B0A05&color=FBBF24&line=F59E0B&point=ffffff&area=true&area_color=F59E0B" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhpawar20026&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabhpawar20026&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
@@ -143,7 +143,7 @@
 ### &nbsp;🔥&nbsp; Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar20026&hide_border=true&background=0D0B1F&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar20026&hide_border=true&background=0B0A05&stroke=F59E0B&ring=FBBF24&fire=FBBF24&currStreakLabel=FBBF24&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
@@ -159,28 +159,28 @@
       <h3 align="center">🤖 Multi-Agent AI Research Assistant</h3>
       <div align="center">
         <a href="https://github.com/saurabhpawar20026/Multi-Agent-AI-Research-Assistant">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&hide_border=true&bg_color=0B0A05&title_color=FBBF24&icon_color=F59E0B&text_color=C9D1D9" />
         </a>
       </div>
       <p align="center">An orchestration system where multiple AI agents collaborate to automate research and content generation.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLM-A855F7?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLM-FBBF24?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Agents-F59E0B?style=flat-square" />
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🩺 Aarogya Connect</h3>
       <div align="center">
         <a href="https://github.com/saurabhpawar20026/Aarogya_connect">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Aarogya_connect&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Aarogya_connect&hide_border=true&bg_color=0B0A05&title_color=FBBF24&icon_color=F59E0B&text_color=C9D1D9" />
         </a>
       </div>
       <p align="center">A full-stack healthcare platform for appointment booking and medical schedule tracking.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Full_Stack-A855F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Full_Stack-FBBF24?style=flat-square" />
       </div>
     </td>
   </tr>
@@ -197,48 +197,48 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/Multi-Agent-AI-Research-Assistant">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Multi-Agent-AI-Research-Assistant&hide_border=true&bg_color=0B0A05&title_color=FBBF24&icon_color=F59E0B&text_color=C9D1D9" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/PathFinder-AI">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=PathFinder-AI&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=PathFinder-AI&hide_border=true&bg_color=0B0A05&title_color=FBBF24&icon_color=F59E0B&text_color=C9D1D9" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/Sentiment-Analysis-Dashboard">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Sentiment-Analysis-Dashboard&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Sentiment-Analysis-Dashboard&hide_border=true&bg_color=0B0A05&title_color=FBBF24&icon_color=F59E0B&text_color=C9D1D9" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/Antique-AI-Restorer">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Antique-AI-Restorer&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Antique-AI-Restorer&hide_border=true&bg_color=0B0A05&title_color=FBBF24&icon_color=F59E0B&text_color=C9D1D9" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/AURELIA">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=AURELIA&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=AURELIA&hide_border=true&bg_color=0B0A05&title_color=FBBF24&icon_color=F59E0B&text_color=C9D1D9" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/APEX-STACK">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=APEX-STACK&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=APEX-STACK&hide_border=true&bg_color=0B0A05&title_color=FBBF24&icon_color=F59E0B&text_color=C9D1D9" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/AI-Health-Assistant">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=AI-Health-Assistant&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=AI-Health-Assistant&hide_border=true&bg_color=0B0A05&title_color=FBBF24&icon_color=F59E0B&text_color=C9D1D9" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/saurabhpawar20026/Smart-Expense-Splitter">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&hide_border=true&bg_color=0D0B1F&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saurabhpawar20026&repo=Smart-Expense-Splitter&hide_border=true&bg_color=0B0A05&title_color=FBBF24&icon_color=F59E0B&text_color=C9D1D9" />
       </a>
     </td>
   </tr>
@@ -246,7 +246,7 @@
 
 <div align="center">
   <a href="https://github.com/saurabhpawar20026?tab=repositories">
-    <img src="https://img.shields.io/badge/%F0%9F%93%82_View_All_Projects-8B5CF6?style=for-the-badge&logoColor=white" alt="All Projects" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%82_View_All_Projects-F59E0B?style=for-the-badge&logoColor=white" alt="All Projects" />
   </a>
 </div>
 
@@ -260,8 +260,8 @@
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://img.shields.io/badge/2025-A855F7?style=for-the-badge" /><br />
-      <img src="https://img.shields.io/badge/Frontend-8B5CF6?style=flat-square" />
+      <img src="https://img.shields.io/badge/2025-FBBF24?style=for-the-badge" /><br />
+      <img src="https://img.shields.io/badge/Frontend-F59E0B?style=flat-square" />
     </td>
     <td>
       <b>Frontend Developer Intern</b> &nbsp;·&nbsp; <i>Saiket Systems</i><br />
@@ -275,8 +275,8 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/2025-6D28D9?style=for-the-badge" /><br />
-      <img src="https://img.shields.io/badge/Web_Dev-8B5CF6?style=flat-square" />
+      <img src="https://img.shields.io/badge/2025-B45309?style=for-the-badge" /><br />
+      <img src="https://img.shields.io/badge/Web_Dev-F59E0B?style=flat-square" />
     </td>
     <td>
       <b>Web Development Trainee</b> &nbsp;·&nbsp; <i>SkillInfyTech</i><br />
@@ -344,7 +344,7 @@
 <!-- ============================================================= -->
 <!--                          FOOTER                               -->
 <!-- ============================================================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=68" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=22&fontColor=1c1407&animation=twinkling&fontAlignY=68" alt="footer" />
 
 <div align="center">
   <i>"First, solve the problem. Then, write the code."</i>
