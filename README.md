@@ -2,7 +2,7 @@
 <!--                       HERO BANNER                             -->
 <!-- ============================================================= -->
 <a href="https://github.com/saurabhpawar20026">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4c1d95,6d28d9,8b5cf6&height=230&section=header&text=Saurabh%20Gagde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Data%20Analytics%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=20" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=230&section=header&text=Saurabh%20Gagde&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Data%20Analytics%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=20" alt="header" />
 </a>
 
 <!-- ============================================================= -->
@@ -346,7 +346,7 @@ mantra: "Consistent coding is the key to becoming a 1% developer."
 <!-- ============================================================= -->
 <!--                          FOOTER                               -->
 <!-- ============================================================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8b5cf6,6d28d9,4c1d95&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=68" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=68" alt="footer" />
 
 <div align="center">
   <i>"First, solve the problem. Then, write the code."</i>
