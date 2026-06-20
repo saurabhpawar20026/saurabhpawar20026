@@ -1,68 +1,118 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500" fill="none" font-family="'Segoe UI', 'Trebuchet MS', system-ui, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 530" width="900" height="530" fill="none" font-family="'Segoe UI', 'Trebuchet MS', system-ui, sans-serif">
   <defs>
     <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#140d2e"/>
+      <stop offset="0%" stop-color="#160e33"/>
+      <stop offset="55%" stop-color="#0f0a26"/>
       <stop offset="100%" stop-color="#0b0a1f"/>
     </linearGradient>
     <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#818cf8"/>
-      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#c084fc"/>
       <stop offset="100%" stop-color="#e879f9"/>
     </linearGradient>
-    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e879f9"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="avatar" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#a855f7"/>
       <stop offset="100%" stop-color="#6366f1"/>
     </linearGradient>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <radialGradient id="orb" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.35"/>
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.40"/>
       <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#a855f7" fill-opacity="0.18"/>
+    </pattern>
   </defs>
 
-  <!-- glass card -->
-  <rect x="1" y="1" width="898" height="498" rx="20" fill="url(#card)" stroke="#a855f7" stroke-opacity="0.35" stroke-width="1.5"/>
-  <rect x="1" y="1" width="898" height="498" rx="20" fill="#ffffff" fill-opacity="0.02"/>
-  <rect x="12" y="20" width="5" height="460" rx="2.5" fill="url(#edge)"/>
-  <circle cx="800" cy="70" r="160" fill="url(#orb)"/>
+  <!-- card + glass + decoration -->
+  <rect x="2" y="2" width="896" height="526" rx="24" fill="url(#card)"/>
+  <rect x="2" y="2" width="896" height="526" rx="24" fill="url(#dots)"/>
+  <rect x="2" y="2" width="896" height="526" rx="24" fill="#ffffff" fill-opacity="0.015"/>
+  <circle cx="820" cy="60" r="170" fill="url(#orb)"/>
+  <circle cx="70" cy="500" r="150" fill="url(#orb2)"/>
+  <!-- static soft border -->
+  <rect x="2" y="2" width="896" height="526" rx="24" fill="none" stroke="#a855f7" stroke-opacity="0.30" stroke-width="1.5"/>
+  <!-- animated travelling light on border -->
+  <rect x="2" y="2" width="896" height="526" rx="24" fill="none" stroke="url(#edge)" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="260 2580">
+    <animate attributeName="stroke-dashoffset" from="2840" to="0" dur="6s" repeatCount="indefinite"/>
+  </rect>
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.9s" fill="freeze"/>
 
-    <!-- name -->
-    <text x="48" y="74" font-size="44" font-weight="800" fill="url(#name)" filter="url(#glow)">Saurabh Gagde</text>
-    <rect x="50" y="90" width="170" height="3" rx="1.5" fill="url(#name)"/>
+    <!-- ===== HEADER: avatar + name ===== -->
+    <circle cx="86" cy="86" r="42" fill="url(#avatar)" filter="url(#glow)"/>
+    <circle cx="86" cy="86" r="42" fill="none" stroke="#e879f9" stroke-opacity="0.6" stroke-width="1.5"/>
+    <text x="86" y="98" text-anchor="middle" font-size="34" font-weight="800" fill="#ffffff">SG</text>
+    <!-- live status dot -->
+    <circle cx="116" cy="114" r="9" fill="#0b0a1f"/>
+    <circle cx="116" cy="114" r="6" fill="#22c55e">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
 
+    <!-- name with pulsing glow -->
+    <text x="150" y="78" font-size="42" font-weight="800" fill="url(#name)" filter="url(#glow)" opacity="0.55">Saurabh Gagde
+      <animate attributeName="opacity" values="0.35;0.75;0.35" dur="3.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="150" y="78" font-size="42" font-weight="800" fill="url(#name)">Saurabh Gagde</text>
+    <text x="152" y="106" font-size="16" font-weight="600" fill="#cbd5e1" letter-spacing="0.3">Full Stack Developer &#8226; Data Analyst &#8226; ML Enthusiast</text>
+    <!-- open to work pill -->
+    <rect x="700" y="60" width="150" height="30" rx="15" fill="#22c55e" fill-opacity="0.14" stroke="#22c55e" stroke-opacity="0.55"/>
+    <circle cx="722" cy="75" r="4" fill="#22c55e"/>
+    <text x="734" y="80" font-size="13" font-weight="700" fill="#86efac">OPEN TO WORK</text>
+
+    <!-- divider -->
+    <rect x="48" y="146" width="804" height="2" rx="1" fill="url(#edge)" opacity="0.45"/>
+
+    <!-- ===== INFO ROWS ===== -->
     <!-- education -->
-    <text x="48" y="138" font-size="20"><tspan font-weight="700" fill="#a78bfa">🎓 Education&#160;&#160;</tspan><tspan font-weight="600" fill="#e2e8f0">Master of Computer Applications (MCA)</tspan></text>
+    <circle cx="68" cy="186" r="19" fill="#a855f7" fill-opacity="0.16" stroke="#a855f7" stroke-opacity="0.45"/>
+    <text x="68" y="193" text-anchor="middle" font-size="18">🎓</text>
+    <text x="100" y="180" font-size="13" font-weight="700" fill="#a78bfa" letter-spacing="1.5">EDUCATION</text>
+    <text x="100" y="200" font-size="18" font-weight="600" fill="#e2e8f0">Master of Computer Applications (MCA)</text>
 
     <!-- role -->
-    <text x="48" y="176" font-size="20"><tspan font-weight="700" fill="#a78bfa">💼 Role&#160;&#160;</tspan><tspan font-weight="600" fill="#e2e8f0">Full Stack Developer &#8226; Data Analyst &#8226; ML Enthusiast</tspan></text>
+    <circle cx="68" cy="240" r="19" fill="#8b5cf6" fill-opacity="0.16" stroke="#8b5cf6" stroke-opacity="0.45"/>
+    <text x="68" y="247" text-anchor="middle" font-size="18">💼</text>
+    <text x="100" y="234" font-size="13" font-weight="700" fill="#a78bfa" letter-spacing="1.5">ROLE</text>
+    <text x="100" y="254" font-size="18" font-weight="600" fill="#e2e8f0">Full Stack Developer &#8226; Data Analyst &#8226; ML Enthusiast</text>
 
-    <!-- based -->
-    <text x="48" y="214" font-size="20"><tspan font-weight="700" fill="#a78bfa">📍 Based in&#160;&#160;</tspan><tspan font-weight="600" fill="#e2e8f0">India</tspan></text>
+    <!-- location -->
+    <circle cx="68" cy="294" r="19" fill="#6366f1" fill-opacity="0.16" stroke="#6366f1" stroke-opacity="0.45"/>
+    <text x="68" y="301" text-anchor="middle" font-size="18">📍</text>
+    <text x="100" y="288" font-size="13" font-weight="700" fill="#a78bfa" letter-spacing="1.5">BASED IN</text>
+    <text x="100" y="308" font-size="18" font-weight="600" fill="#e2e8f0">India</text>
 
-    <!-- focus -->
-    <text x="48" y="262" font-size="20" font-weight="700" fill="#a78bfa">🎯 Focus</text>
-    <text x="72" y="294" font-size="18" font-weight="600" fill="#cbd5e1"><tspan fill="#a855f7" font-weight="800">▹ </tspan>Building scalable, end-to-end web applications</text>
-    <text x="72" y="324" font-size="18" font-weight="600" fill="#cbd5e1"><tspan fill="#a855f7" font-weight="800">▹ </tspan>Turning raw data into actionable insights &amp; dashboards</text>
-    <text x="72" y="354" font-size="18" font-weight="600" fill="#cbd5e1"><tspan fill="#a855f7" font-weight="800">▹ </tspan>Designing intelligent, AI-driven systems</text>
+    <!-- ===== FOCUS ===== -->
+    <text x="48" y="350" font-size="15" font-weight="800" fill="#a78bfa" letter-spacing="1.5">🎯 FOCUS AREAS</text>
+    <text x="60" y="380" font-size="17" font-weight="600" fill="#cbd5e1"><tspan fill="#e879f9" font-weight="800">▹ </tspan>Building scalable, end-to-end web applications</text>
+    <text x="60" y="408" font-size="17" font-weight="600" fill="#cbd5e1"><tspan fill="#c084fc" font-weight="800">▹ </tspan>Turning raw data into actionable insights &amp; dashboards</text>
+    <text x="60" y="436" font-size="17" font-weight="600" fill="#cbd5e1"><tspan fill="#a855f7" font-weight="800">▹ </tspan>Designing intelligent, AI-driven systems</text>
 
-    <!-- currently learning -->
-    <text x="48" y="402" font-size="20" font-weight="700" fill="#a78bfa">📚 Currently Learning</text>
-    <g font-size="15" font-weight="700">
-      <rect x="50" y="416" width="218" height="30" rx="15" fill="#a855f7" fill-opacity="0.16" stroke="#a855f7" stroke-opacity="0.5"/>
-      <text x="159" y="436" text-anchor="middle" fill="#e9d5ff">Advanced System Design</text>
-      <rect x="280" y="416" width="92" height="30" rx="15" fill="#6366f1" fill-opacity="0.16" stroke="#6366f1" stroke-opacity="0.5"/>
-      <text x="326" y="436" text-anchor="middle" fill="#c7d2fe">MLOps</text>
-      <rect x="384" y="416" width="186" height="30" rx="15" fill="#a855f7" fill-opacity="0.16" stroke="#a855f7" stroke-opacity="0.5"/>
-      <text x="477" y="436" text-anchor="middle" fill="#e9d5ff">Cloud Architecture</text>
+    <!-- ===== LEARNING CHIPS ===== -->
+    <text x="48" y="478" font-size="15" font-weight="800" fill="#a78bfa" letter-spacing="1.5">📚 CURRENTLY LEARNING</text>
+    <g font-size="14" font-weight="700">
+      <rect x="48" y="490" width="214" height="28" rx="14" fill="#a855f7" fill-opacity="0.16" stroke="#a855f7" stroke-opacity="0.5"/>
+      <text x="155" y="509" text-anchor="middle" fill="#e9d5ff">Advanced System Design</text>
+      <rect x="274" y="490" width="86" height="28" rx="14" fill="#6366f1" fill-opacity="0.16" stroke="#6366f1" stroke-opacity="0.5"/>
+      <text x="317" y="509" text-anchor="middle" fill="#c7d2fe">MLOps</text>
+      <rect x="372" y="490" width="176" height="28" rx="14" fill="#e879f9" fill-opacity="0.14" stroke="#e879f9" stroke-opacity="0.5"/>
+      <text x="460" y="509" text-anchor="middle" fill="#f5d0fe">Cloud Architecture</text>
     </g>
 
     <!-- mantra -->
-    <text x="48" y="484" font-size="17" font-style="italic" font-weight="600" fill="#94a3b8">💬 &#8220;Consistent coding is the key to becoming a 1% developer.&#8221;</text>
+    <text x="852" y="509" font-size="14" font-style="italic" font-weight="600" fill="#94a3b8" text-anchor="end">💬 &#8220;Consistent coding &#8594; top 1% developer.&#8221;</text>
   </g>
 </svg>
