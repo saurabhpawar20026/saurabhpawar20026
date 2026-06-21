@@ -131,10 +131,6 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhpawar20026&hide_border=true&bg_color=0B0A05&color=FBBF24&line=F59E0B&point=ffffff&area=true&area_color=F59E0B" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhpawar20026&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
-</div>
-
 <img width="100%" src="https://raw.githubusercontent.com/saurabhpawar20026/saurabhpawar20026/main/assets/divider.svg" alt="" />
 
 <!-- ============================================================= -->
