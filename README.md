@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/saurabhpawar20026/saurabhpawar20026/blob/main/SAURABH.RESUME%20(1).pdf" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%84_View_My_Resume-FBBF24?style=for-the-badge&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/View_My_Resume-F59E0B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
@@ -246,7 +246,7 @@
 
 <div align="center">
   <a href="https://github.com/saurabhpawar20026?tab=repositories">
-    <img src="https://img.shields.io/badge/%F0%9F%93%82_View_All_Projects-F59E0B?style=for-the-badge&logoColor=white" alt="All Projects" />
+    <img src="https://img.shields.io/badge/View_All_Projects-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="All Projects" />
   </a>
 </div>
 
